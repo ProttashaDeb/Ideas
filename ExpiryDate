@@ -1,0 +1,9 @@
+/** Coding Idea
+Create a program when it first prompts you to either if you want to log in to a product or ask if anything is expiring.
+If you are logging in, you can type in the name of the product and the date you opened it, the good till this day date
+If you ask, it will show you any product that is expiring within a span of one month.
+To further make it better, ask if the product is expiring with this amount of months. */
+
+public class ExpiryDate {
+
+}
